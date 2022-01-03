@@ -1,6 +1,5 @@
 <h2 align="right">
-  <!-- more profile links coming soon -->
-  <a href="https://www.credly.com/users/manasesjesus"><img src="./graphics/credly.svg" alt="Credly" width="30"></a>
+<!-- profile links coming soon --> 
 </h2>
 
 <p align="center">
