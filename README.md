@@ -6,7 +6,7 @@
   <a href="#readme"><img src="./graphics/manasesjesus-header.svg" alt="Manasés Jesús (@manasesjesus)"></a>
 </p>
 <p>
-  <img src="./graphics/manasesjesus-hello.png" alt="" width="40%" align="left">
+  <a href="#readme"><img src="./graphics/manasesjesus-hello.png" alt="" width="40%" align="left"></a>
   <p>
     One chill, groovy, bubbly, witty, cheeky, friendly neighborhood S̷p̷i̷d̷e̷r̷m̷a̷n̷ Mexican.
     No bad habits, quite smart, fantastic and wonderful gentleman. Sometimes modest and very humble.
@@ -28,7 +28,7 @@
 
 <br><br>
 <p>
-  <img align="right" valign="bottom" src="./graphics/manasesjesus-stats.svg" alt="manasesjesus" width="100">
+  <a href="#readme"><img align="right" valign="bottom" src="./graphics/manasesjesus-stats.svg" alt="manasesjesus" width="100"></a>
 </p>
 <section data-footnotes="">
   <a href="#readme"><img src="./graphics/octicon-info.svg" alt="info" width="11"></a>
